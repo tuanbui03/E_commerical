@@ -1,4 +1,5 @@
 import 'package:e_commerical/features/authentication/screens/password_configuration/forget_password.dart';
+import 'package:e_commerical/navigation_menu.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:iconsax/iconsax.dart';

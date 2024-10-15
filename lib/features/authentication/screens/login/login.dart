@@ -5,10 +5,8 @@ import 'package:e_commerical/utils/constants/text_string.dart';
 import 'package:e_commerical/utils/helpers/helper_functions.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
 import '../../../../common/widgets/login_signup/form_divider.dart';
 import '../../../../common/widgets/login_signup/social_buttons.dart';
-
 import '../../../../utils/constants/sizes.dart';
 
 class LoginScreen extends StatelessWidget {

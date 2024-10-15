@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1068678883218",
+    "project_id": "e-commerical-b6dde",
+    "storage_bucket": "e-commerical-b6dde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068678883218:android:443ae3e818375b7880434b",
+        "android_client_info": {
+          "package_name": "com.ecommerical.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkha1qcaA9sg0WMejh2KWxl4JLrveBJJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
